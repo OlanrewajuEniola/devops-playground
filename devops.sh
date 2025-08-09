@@ -8,4 +8,4 @@ sudo systemctl start nginx
 
 sudo systemctl enable nginx
 
-echo "Hello from Ola" | sudo tee /var/www/html/index-debian.html
+echo "Hello from Ola" | sudo tee /var/www/html/index.html
