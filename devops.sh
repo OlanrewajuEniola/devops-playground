@@ -8,4 +8,4 @@ sudo systemctl start nginx
 
 sudo systemctl enable nginx
 
-echo "Hello from Ola and I have just install Jenkins on my machine now" | sudo tee /var/www/html/index.html
+echo "Hello from Ola - I have just install Jenkins on my machine now" | sudo tee /var/www/html/index.html
